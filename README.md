@@ -9,7 +9,7 @@
 - **Database Management:** Strong experience with SQL, NoSQL, and data modeling to design efficient and scalable databases.
 
 ### My Projects
-Over the years, I've worked on a multitude of projects, from small scripts to large-scale enterprise applications. Here are some categories you can explore:
+Over the years, I've worked on a multitude of projects, from small scripts to large-scale enterprise applications. Here are some of my personal projects:
 
 - **Python Projects:**:
   - Realtime Data Pipeline using Kafka and OpenSearch: https://github.com/mjmichael73/python-wikimedia-kafka-opensearch
@@ -19,15 +19,20 @@ Over the years, I've worked on a multitude of projects, from small scripts to la
   - Flask and Kubernetes: https://github.com/mjmichael73/flask-kube
   - Python Performance Examinations: https://github.com/mjmichael73/python-performance
   - Python Functional Programming: https://github.com/mjmichael73/Python-Functional-Programming
-- **Golang Projects:** [View Projects](https://github.com/mjmichael73?tab=repositories&q=&type=&language=golang)
+  - Django Dockerized Temaplte (https://github.com/mjmichael73/django-template)
+  - Django Blog (https://github.com/mjmichael73/django-blog/tree/main)
+  - Python Concurrency Examples (https://github.com/mjmichael73/python-concurrency-examples)
+  - Django Recipe App API (https://github.com/mjmichael73/recipe-app-api)
+- **Golang Projects:**:
+  - Library Microservices (Golang, Prometheus, Grafana, Jaeger, ...) (https://github.com/mjmichael73/library-microservice)
+  - Go Simple HTTP and Client Server (https://github.com/mjmichael73/go-simple-http-server-client)
+  - Golang Echo Framework API (https://github.com/mjmichael73/linkedinLearning-buildAMicroserviceWithGo)
+  - Books API (https://github.com/mjmichael73/go-books-api)
+  - Microservices Toll Calculator (https://github.com/mjmichael73/toll-calculator)
+  - Hotel Reservation API (https://github.com/mjmichael73/hotel-reservation-api)
 - **PHP Projects:** [View Projects](https://github.com/mjmichael73?tab=repositories&q=&type=&language=php)
 
 ### Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Personal Website](https://www.yourwebsite.com/)
-- [Twitter](https://twitter.com/yourprofile)
-
----
-
-Feel free to connect with me to discuss technology, collaborate on projects, or just have a tech chat. Let's build something amazing together!
+- [LinkedIn](https://www.linkedin.com/in/mjmichael/)
+- [Personal Website](https://mjmjmj.name/)
 
