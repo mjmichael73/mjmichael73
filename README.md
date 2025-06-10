@@ -4,16 +4,23 @@
 
 ### What I Do
 - **Backend Development:** Proficient in back-end technologies, creating optimized and scalable applications.
-- **Languages & Frameworks:** Expertise in Python, PHP, Golang  and a variety of frameworks including Django, FastApi, Laravel, and ...
+- **Languages & Frameworks:** Expertise in Python, Golang, PHP  and a variety of frameworks including Django, FastApi, Go Echo Framework, Laravel, and ...
 - **Cloud & DevOps:** Skilled in cloud computing (AWS) and DevOps practices to ensure efficient and reliable deployment pipelines.
 - **Database Management:** Strong experience with SQL, NoSQL, and data modeling to design efficient and scalable databases.
 
 ### My Projects
 Over the years, I've worked on a multitude of projects, from small scripts to large-scale enterprise applications. Here are some categories you can explore:
 
-- **Python Projects:** [View Projects](https://github.com/mjmichael73?tab=repositories&q=&type=&language=python)
-- **PHP Projects:** [View Projects](https://github.com/mjmichael73?tab=repositories&q=&type=&language=php)
+- **Python Projects:**:
+  - Realtime Data Pipeline using Kafka and OpenSearch: https://github.com/mjmichael73/python-wikimedia-kafka-opensearch
+  - Chunked File Upload using FastAPI: https://github.com/mjmichael73/fastapi-chunked-file-upload
+  - Django Ecommerce: https://github.com/mjmichael73/django-ecommerce
+  - Django Social Media Platform: https://github.com/mjmichael73/django-social-platform/tree/main
+  - Flask and Kubernetes: https://github.com/mjmichael73/flask-kube
+  - Python Performance Examinations: https://github.com/mjmichael73/python-performance
+  - Python Functional Programming: https://github.com/mjmichael73/Python-Functional-Programming
 - **Golang Projects:** [View Projects](https://github.com/mjmichael73?tab=repositories&q=&type=&language=golang)
+- **PHP Projects:** [View Projects](https://github.com/mjmichael73?tab=repositories&q=&type=&language=php)
 
 ### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/)
