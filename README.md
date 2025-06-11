@@ -31,6 +31,7 @@ Over the years, I've worked on a multitude of projects, from small scripts to la
   - Books API (https://github.com/mjmichael73/go-books-api)
   - Microservices Toll Calculator (https://github.com/mjmichael73/toll-calculator)
   - Hotel Reservation API (https://github.com/mjmichael73/hotel-reservation-api)
+  - Golang MinIO Integration (https://github.com/mjmichael73/golang-minio-integration)
 - **PHP Projects:** [View Projects](https://github.com/mjmichael73?tab=repositories&q=&type=&language=php)
 
 ### Let's Connect
