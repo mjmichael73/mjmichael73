@@ -23,6 +23,7 @@ Over the years, I've worked on a multitude of projects, from small scripts to la
   - Django Blog (https://github.com/mjmichael73/django-blog/tree/main)
   - Python Concurrency Examples (https://github.com/mjmichael73/python-concurrency-examples)
   - Django Recipe App API (https://github.com/mjmichael73/recipe-app-api)
+  - FastAPI MinIO Integration (https://github.com/mjmichael73/fastapi-minio-integration)
 - **Golang Projects:**:
   - Library Microservices (Golang, Prometheus, Grafana, Jaeger, ...) (https://github.com/mjmichael73/library-microservice)
   - Go Simple HTTP and Client Server (https://github.com/mjmichael73/go-simple-http-server-client)
