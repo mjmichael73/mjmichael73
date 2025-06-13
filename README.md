@@ -33,6 +33,7 @@ Over the years, I've worked on a multitude of projects, from small scripts to la
   - Microservices Toll Calculator (https://github.com/mjmichael73/toll-calculator)
   - Hotel Reservation API (https://github.com/mjmichael73/hotel-reservation-api)
   - Golang MinIO Integration (https://github.com/mjmichael73/golang-minio-integration)
+  - Golang GRPC Integration for Inter service communication (https://github.com/mjmichael73/golang-grpc-integration)
 - **PHP Projects:** [View Projects](https://github.com/mjmichael73?tab=repositories&q=&type=&language=php)
 
 ### Let's Connect
