@@ -34,6 +34,7 @@ Over the years, I've worked on a multitude of projects, from small scripts to la
   - Hotel Reservation API (https://github.com/mjmichael73/hotel-reservation-api)
   - Golang MinIO Integration (https://github.com/mjmichael73/golang-minio-integration)
   - Golang GRPC Integration for Inter service communication (https://github.com/mjmichael73/golang-grpc-integration)
+  - Golang Chat WebSocket (https://github.com/mjmichael73/golang-chat-websocket)
 - **PHP Projects:** [View Projects](https://github.com/mjmichael73?tab=repositories&q=&type=&language=php)
 
 ### Let's Connect
