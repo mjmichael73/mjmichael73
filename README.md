@@ -13,15 +13,11 @@ Over the years, I've worked on a multitude of projects, from small scripts to la
 
 - **Python Projects:**:
   - Realtime Data Pipeline using Kafka and OpenSearch: https://github.com/mjmichael73/python-wikimedia-kafka-opensearch
-  - Chunked File Upload using FastAPI: https://github.com/mjmichael73/fastapi-chunked-file-upload
   - Django Ecommerce: https://github.com/mjmichael73/django-ecommerce
   - Django Social Media Platform: https://github.com/mjmichael73/django-social-platform/tree/main
   - Flask and Kubernetes: https://github.com/mjmichael73/flask-kube
-  - Python Performance Examinations: https://github.com/mjmichael73/python-performance
-  - Python Functional Programming: https://github.com/mjmichael73/Python-Functional-Programming
   - Django Dockerized Temaplte (https://github.com/mjmichael73/django-template)
   - Django Blog (https://github.com/mjmichael73/django-blog/tree/main)
-  - Python Concurrency Examples (https://github.com/mjmichael73/python-concurrency-examples)
   - Django Recipe App API (https://github.com/mjmichael73/recipe-app-api)
   - FastAPI MinIO Integration (https://github.com/mjmichael73/fastapi-minio-integration)
   - FastAPI and Python GRPC Integration (https://github.com/mjmichael73/fastapi-grpc-integration)
