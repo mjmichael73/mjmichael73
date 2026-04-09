@@ -23,7 +23,7 @@ Over the years, I've worked on a multitude of projects, from small scripts to la
   - Shop Flow (https://github.com/mjmichael73/shopflow-polyglot-microservices-go-python-rust)
   - Library Microservices (Golang, Prometheus, Grafana, Jaeger, ...) (https://github.com/mjmichael73/library-microservice)
   - Books API (https://github.com/mjmichael73/go-books-api)
-  - Hotel Booking API (https://github.com/mjmichael73/hotel-reservation-api)
+  - Hotel Booking API (https://github.com/mjmichael73/echo-hotel-booking-api)
 
 ### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/mjmichael/)
