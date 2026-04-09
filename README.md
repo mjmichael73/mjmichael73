@@ -13,6 +13,7 @@ Over the years, I've worked on a multitude of projects, from small scripts to la
 
 - **Python Projects:**:
   - Realtime Data Pipeline using Kafka and OpenSearch: https://github.com/mjmichael73/python-wikimedia-kafka-opensearch
+  - POW BlockChain: https://github.com/mjmichael73/pow-blockchain-python
   - Django Ecommerce: https://github.com/mjmichael73/django-ecommerce
   - Django Social Media Platform: https://github.com/mjmichael73/django-social-platform/tree/main
   - Flask and Kubernetes: https://github.com/mjmichael73/flask-kube
