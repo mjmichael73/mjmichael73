@@ -16,22 +16,12 @@ Over the years, I've worked on a multitude of projects, from small scripts to la
   - POW BlockChain: https://github.com/mjmichael73/pow-blockchain-python
   - Django Ecommerce: https://github.com/mjmichael73/django-ecommerce
   - Django Social Media Platform: https://github.com/mjmichael73/django-social-platform/tree/main
-  - Flask and Kubernetes: https://github.com/mjmichael73/flask-kube
-  - Django Dockerized Temaplte (https://github.com/mjmichael73/django-template)
   - Django Blog (https://github.com/mjmichael73/django-blog/tree/main)
   - Django Recipe App API (https://github.com/mjmichael73/recipe-app-api)
-  - FastAPI MinIO Integration (https://github.com/mjmichael73/fastapi-minio-integration)
-  - FastAPI and Python GRPC Integration (https://github.com/mjmichael73/fastapi-grpc-integration)
 - **Golang Projects:**:
   - Library Microservices (Golang, Prometheus, Grafana, Jaeger, ...) (https://github.com/mjmichael73/library-microservice)
-  - Go Simple HTTP and Client Server (https://github.com/mjmichael73/go-simple-http-server-client)
-  - Golang Echo Framework API (https://github.com/mjmichael73/linkedinLearning-buildAMicroserviceWithGo)
   - Books API (https://github.com/mjmichael73/go-books-api)
-  - Microservices Toll Calculator (https://github.com/mjmichael73/toll-calculator)
-  - Hotel Reservation API (https://github.com/mjmichael73/hotel-reservation-api)
-  - Golang MinIO Integration (https://github.com/mjmichael73/golang-minio-integration)
-  - Golang GRPC Integration for Inter service communication (https://github.com/mjmichael73/golang-grpc-integration)
-  - Golang Chat WebSocket (https://github.com/mjmichael73/golang-chat-websocket)
+  - Hotel Booking API (https://github.com/mjmichael73/hotel-reservation-api)
 
 ### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/mjmichael/)
