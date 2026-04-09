@@ -19,6 +19,7 @@ Over the years, I've worked on a multitude of projects, from small scripts to la
   - Django Blog (https://github.com/mjmichael73/django-blog/tree/main)
   - Django Recipe App API (https://github.com/mjmichael73/recipe-app-api)
 - **Golang Projects:**:
+  - Uber Clone
   - Library Microservices (Golang, Prometheus, Grafana, Jaeger, ...) (https://github.com/mjmichael73/library-microservice)
   - Books API (https://github.com/mjmichael73/go-books-api)
   - Hotel Booking API (https://github.com/mjmichael73/hotel-reservation-api)
