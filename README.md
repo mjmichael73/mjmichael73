@@ -15,6 +15,7 @@ Over the years, I've worked on a multitude of projects, from small scripts to la
   - Realtime Data Pipeline using Kafka and OpenSearch: https://github.com/mjmichael73/python-wikimedia-kafka-opensearch
   - POW BlockChain: https://github.com/mjmichael73/pow-blockchain-python
   - Django Ecommerce: https://github.com/mjmichael73/django-ecommerce
+  - LLM As Judge: https://github.com/mjmichael73/llm-as-judge
   - Django Social Media Platform: https://github.com/mjmichael73/django-social-platform/tree/main
   - Django Blog (https://github.com/mjmichael73/django-blog/tree/main)
   - Django Recipe App API (https://github.com/mjmichael73/recipe-app-api)
