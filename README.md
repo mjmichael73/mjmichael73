@@ -4,7 +4,7 @@
 
 ### What I Do
 - **Backend Development:** Proficient in back-end technologies, creating optimized and scalable applications.
-- **Languages & Frameworks:** Expertise in Python, Golang, PHP  and a variety of frameworks including Django, FastApi, Go Echo Framework, Laravel, and ...
+- **Languages & Frameworks:** Expertise in Python, Golang, PHP  and a variety of frameworks including Django, FastApi, Go Echo Framework, and ...
 - **Cloud & DevOps:** Skilled in cloud computing (AWS) and DevOps practices to ensure efficient and reliable deployment pipelines.
 - **Database Management:** Strong experience with SQL, NoSQL, and data modeling to design efficient and scalable databases.
 
